@@ -1,0 +1,86 @@
+<htnl>
+<head>
+<title> Faro Intelligente </title>
+
+
+ <style>
+  *{
+   font-family:'Arial';
+  }
+  
+  html{
+   margin:0px;
+   padding:0pc;
+  }
+  
+  body{
+   background-color: #FFF8DC;
+   margin:0px;
+   padding:0pc;
+  }
+
+  h1{
+  font-family:'Impact';
+  text-align: center;
+  letter-spacing:6px;
+  font-size: 70px;
+  color:#00CED1;
+  padding:40px;
+  } 
+
+  
+  #logo{
+   float:left;
+   margin-left:30px;
+  }
+
+
+
+   
+
+ 
+
+
+
+ 
+
+
+
+ </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+<header>
+ <img id="logo" src="https://github.com/TessaPa/immaginisito/blob/d976291e81372006a596174c402da253f84d9d36/faro..png">
+ <h1>Faro intelligente </h1>
+</header>
+
+<section>
+ <aside>
+  <img id="faro" src="https://github.com/TessaPa/immaginisito/blob/main/faro..png">
+ </aside>
+ <nav>
+  <ul>
+    <li><a class="active" href="/">Home</a></li>
+    <li><a href="/">Condizioni meteo e visibilità </a></li>
+    <li><a href="/"> Luce </a></li>
+  </ul>
+ </nav>
+ <article>
+  <h2> Faro </h2>
+ <p> Un faro è una struttura, in genere una torre, dotata alla sommità di un sistema, costituita da una lampada ed un sistema di lenti, 
+ capace di emettere potenti segnali luminosi di aiuto e riferimento alla navigazione.</p>
+ </article>
+</section>
+</html>
